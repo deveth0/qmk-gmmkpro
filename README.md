@@ -1,8 +1,13 @@
-# tiagoad - GMMK Pro ANSI layout
+# QMK - GMMK Pro ISO Layout
 
-This is the layout I use on my GMMK Pro ANSI.
+This repository contains a ISO compatible keymap definition for the GMMK Pro keyboard.
 
 Features:
-  - Layered encoder (volume, scroll)
-  - RGB matrix lights as indicators (caps, active layers)
-  - Fn lock with Fn+1
+  - Encoder enabled (volume)
+  - White Indicator Lights for CAPS Lock
+  
+
+
+## Acknowledgement
+
+Most of the Code was posted by @tiagoad first: https://github.com/tiagoad/qmk-gmmkpro

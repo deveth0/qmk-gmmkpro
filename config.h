@@ -14,15 +14,10 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-
 #ifdef RGB_MATRIX_ENABLE
-    #define RGB_MATRIX_STARTUP_MODE RGB_MATRIX_NONE
-    #define RGB_MATRIX_KEYPRESSES
-    #define RGB_DISABLE_WHEN_USB_SUSPENDED
+#define RGB_MATRIX_STARTUP_MODE RGB_MATRIX_NONE
+#define RGB_MATRIX_KEYPRESSES
+#define RGB_DISABLE_WHEN_USB_SUSPENDED
 #endif
 
 #define TAPPING_TOGGLE 2
-
-
-
-#define _INDICATOR_COLOR RGB_TEAL
